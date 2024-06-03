@@ -1,5 +1,5 @@
-const header = 'Welcome to this wonderful example timeline.';
-const footer = 'A footer goes here.';
+const header = 'The Three Amigos - A concert timeline';
+const footer = 'All the things.';
 const entries = [
   {
     id: 'hives-at-lcr',
