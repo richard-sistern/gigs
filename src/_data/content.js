@@ -183,6 +183,9 @@ const entries = [
   },
 ];
 
+//Sort by date order
+entries.sort((a, b) => new Date(a.datetime) - new Date(b.datetime));
+
 // Page details
 const pageTitle = 'Static timeline generator'; // The title of the page that shows in the browser tab
 const pageDescription = 'A super fancy timeline'; // The description of the page for search engines
