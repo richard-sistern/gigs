@@ -3,10 +3,10 @@ const footer = 'A footer goes here.';
 const entries = [
   {
     id: 'hives-at-lcr',
-    color: 'green',
+    color: 'grey',
     faicon: 'icons',
     datetime: '2024-04-10 19:30',
-    title: 'The Hives',
+    title: 'The Hives - The Death of Randy Fitzsimmons',
     image: {
       src: 'img/gigs/the-hives-at-lcr.jpg',
       alt: 'The Death of Randy Fitzsimmons Tour 2024',
@@ -26,7 +26,7 @@ const entries = [
   },
   {
     id: 'livewire-at-waterfront',
-    color: 'green',
+    color: 'grey',
     faicon: 'icons',
     datetime: '2024-04-20 18:30',
     title: 'Livewire',
@@ -40,6 +40,144 @@ const entries = [
       {
         href: 'https://www.livewireacdcshow.com/',
         linkText: 'Livewire',
+      },
+    ],
+  },
+  {
+    id: 'cam-cole-at-waterfront',
+    color: 'grey',
+    faicon: 'icons',
+    datetime: '2024-04-23 19:30',
+    title: 'Cam Cole',
+    image: {
+      src: 'img/gigs/cam-cole-at-waterfront.png',
+      alt: 'Cam Cole',
+      caption: 'Cam Cole',
+    },
+    body: 'It‘s an exciting time to listen to Cam Cole and follow his journey. From the streets of Camden in London his songs, his guitars, his Farmer footdrums and most importantly his followers have taken him across the world.<br><br>A cameo on Emmy winning TV show Ted Lasso, festivals in the UK, Sweden, Norway, the Belgium, Netherlands, an Irish tour, two UK tours and a Europe tour, a standout performance at Festival Vaiven in Mexico which gained him thousands of new fans at the other end of the world and most importantly two USA/Canada tour where Cam sold out venues in cities he had never been to before are all part of an incredible journey that only two years ago seemed impossible.<br><br>And now Cam is ready to unleash his 3rd album as well as classic songs from his first two records on his biggest tour yet!  18 dates all across the UK and Ireland.',
+    links: [
+      {
+        href: 'https://camcole.com/',
+        linkText: 'Cam Cole',
+      },
+      {
+        href: 'https://www.the-gulls.com/',
+        linkText: 'The Gulls (support)',
+      },
+    ],
+  },
+  {
+    id: 'indiana-jones-at-royal-albert-hall',
+    color: 'grey',
+    faicon: 'icons',
+    datetime: '2024-05-26 19:30',
+    title: 'Indiana Jones and the Raiders of the Lost Ark Live in Concert',
+    image: {
+      src: 'img/gigs/indiana-jones-at-royal-albert-hall.jpg',
+      alt: 'Indiana Jones',
+      caption: 'Indiana Jones',
+    },
+    body: 'Experience the first on-screen adventure of everyones favourite archaeologist/action hero, with live orchestra at the Royal Albert Hall.<br><br>Part of our Films in Concert series, Indiana Jones and the Raiders of the Lost Ark™ in Concert will feature the London Symphony Orchestra performing John Williams’ legendary score in full for the first time since they recorded the original soundtrack in 1981.',
+    links: [
+      {
+        href: 'https://www.royalalberthall.com/',
+        linkText: 'Royal Albert Hall',
+      },
+    ],
+  },
+  {
+    id: 'arctic-monkeys-at-carrow-road',
+    color: 'grey',
+    faicon: 'icons',
+    datetime: '2023-06-07 18:40',
+    title: 'Artic Monkeys',
+    image: {
+      src: 'img/gigs/arctic-monkeys-at-carrow-road.jpg',
+      alt: 'Arctic Monkeys',
+      caption: 'Arctic Monkeys',
+    },
+    body: '...',
+    links: [
+      {
+        href: 'https://arcticmonkeys.com/',
+        linkText: 'Arctic Monkeys',
+      },
+      {
+        href: 'https://www.thehives.com/',
+        linkText: 'The Hives (support)',
+      },
+      {
+        href: 'https://themysterines.com/',
+        linkText: 'The Mysterines (support)',
+      },
+    ],
+  },
+  {
+    id: 'elton-john-at-carrow-road',
+    color: 'grey',
+    faicon: 'icons',
+    datetime: '2023-06-15 19:30',
+    title: 'Elton John - Farewell Yellow Brick Road Tour',
+    image: {
+      src: 'img/gigs/elton-john-at-carrow-road.jpg',
+      alt: 'Elton John',
+      caption: 'Elton John',
+    },
+    body: '...',
+    links: [
+      {
+        href: 'https://www.eltonjohn.com/',
+        linkText: 'Elton John',
+      },
+    ],
+  },
+  {
+    id: 'killers-at-carrow-road',
+    color: 'grey',
+    faicon: 'icons',
+    datetime: '2023-06-09 19:00',
+    title: 'The Killers - Imploding the Mirage',
+    image: {
+      src: 'img/gigs/killers-at-carrow-road.jpg',
+      alt: 'The Killers',
+      caption: 'The Killers',
+    },
+    body: '...',
+    links: [
+      {
+        href: 'https://www.thekillersmusic.com/',
+        linkText: 'The Killers',
+      },
+      {
+        href: 'https://www.blossomsband.co.uk/',
+        linkText: 'Blossoms (support)',
+      },
+    ],
+  },
+  {
+    id: 'neck-of-the-woods-at-earlham-park',
+    color: 'grey',
+    faicon: 'icons',
+    datetime: '2022-05-29 13:00',
+    title: 'Neck of the Woods',
+    image: {
+      src: 'img/gigs/neck-of-the-woods-at-earlham-park.jpg',
+      alt: 'The Killers',
+      caption: 'The Killers',
+    },
+    body: 'Staging the nation’s finest indie and alternative sounds right on your doorstep, Neck of the Woods will be popping up in East Anglia for the very first time on Sunday 29th May 2022.<br><br>With acts appearing across three stages, 14,000 music fans will descend on Earlham Park (Norwich) for a day of incredible live music.<br><br>Headlining the Main Stage of the inaugural Neck of the Woods will be… THE KOOKS. Over the years, The Kooks have proven themselves to be pillars of the UK indie pop world. Celebrating the 15th Anniversary of their iconic debut studio album ‘Inside In/Inside Out’ this year, the band will be reminding the Neck of the Woods crowd exactly why its songs are still the soundtrack to a whole generation of young people.',
+    links: [
+      {
+        href: 'https://thekooks.com/',
+        linkText: 'The Kooks',
+      },
+      {
+        href: 'https://www.seagirls.net/',
+        linkText: 'Sea Girls',
+      },
+      {
+        href: 'https://www.kawalaofficial.com/',
+        linkText: 'Kawala',
       },
     ],
   },
