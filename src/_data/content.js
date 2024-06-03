@@ -186,7 +186,7 @@ const entries = [
     color: 'grey',
     faicon: 'icons',
     datetime: '2022-08-28 19:30',
-    title: 'Prom 56 - The South African Jazz Songbook',
+    title: 'The South African Jazz Songbook (Prom 56)',
     image: {
       src: 'img/gigs/south-african-jazz-songbook-at-royal-albert-hall.jpg',
       alt: 'The South African Jazz Songbook',
