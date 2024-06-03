@@ -116,7 +116,7 @@ const entries = [
     id: 'elton-john-at-carrow-road',
     color: 'grey',
     faicon: 'icons',
-    datetime: '2023-06-15 19:30',
+    datetime: '2022-06-15 19:30',
     title: 'Elton John - Farewell Yellow Brick Road Tour',
     image: {
       src: 'img/gigs/elton-john-at-carrow-road.jpg',
@@ -135,7 +135,7 @@ const entries = [
     id: 'killers-at-carrow-road',
     color: 'grey',
     faicon: 'icons',
-    datetime: '2023-06-09 19:00',
+    datetime: '2022-06-09 19:00',
     title: 'The Killers - Imploding the Mirage',
     image: {
       src: 'img/gigs/killers-at-carrow-road.jpg',
@@ -181,10 +181,29 @@ const entries = [
       },
     ],
   },
+  {
+    id: 'south-african-jazz-songbook-at-royal-albert-hall',
+    color: 'grey',
+    faicon: 'icons',
+    datetime: '2022-08-28 19:30',
+    title: 'Prom 56 - The South African Jazz Songbook',
+    image: {
+      src: 'img/gigs/south-african-jazz-songbook-at-royal-albert-hall.jpg',
+      alt: 'The South African Jazz Songbook',
+      caption: 'The South African Jazz Songbook',
+    },
+    body: '‘I don’t think any musician ever thinks about making a statement’, said Hugh Masekela, the late, great ’father of South African jazz’ – ‘I think everybody goes into music loving it.’ Tonight’s Prom showcases the most dynamic sounds in contemporary South African jazz, including those of Cry Freedom’s Jonas Gwangwa, genre-crossing composer Abdullah Ibrahim, Dudu Pukwana and Johnny Dyani of The Blue Notes, and saxophonist Winston Mankunku. Singer Siyabonga Mthembu makes a special appearance, together with Mercury Prize-nominated ESKA, double MOBO Award-winning saxophonist Soweto Kinch and tuba sensation Theon Cross. Plus, if there’s one group that’s absolutely guaranteed to set the Proms on fire, it’s Metropole Orkest – the globetrotting, genre-defying ensemble behind recent Proms tributes to Nina Simone, Charles Mingus and Quincy Jones.',
+    links: [
+      {
+        href: 'https://www.bbc.co.uk/events/endfbp',
+        linkText: 'The South African Jazz Songbook',
+      },
+    ],
+  },
 ];
 
 //Sort by date order
-entries.sort((a, b) => new Date(a.datetime) - new Date(b.datetime));
+entries.sort((a, b) => new Date(b.datetime) - new Date(a.datetime));
 
 // Page details
 const pageTitle = 'Static timeline generator'; // The title of the page that shows in the browser tab
