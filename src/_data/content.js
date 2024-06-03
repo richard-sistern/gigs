@@ -3,6 +3,7 @@ const footer = 'A footer goes here.';
 const entries = [
   {
     id: 'hives-at-lcr',
+    categories: ['Alfie', 'Ella', 'Rich'],
     color: 'grey',
     faicon: 'icons',
     datetime: '2024-04-10 19:30',
@@ -26,6 +27,7 @@ const entries = [
   },
   {
     id: 'livewire-at-waterfront',
+    categories: ['Alfie', 'Rich'],
     color: 'grey',
     faicon: 'icons',
     datetime: '2024-04-20 18:30',
@@ -45,6 +47,7 @@ const entries = [
   },
   {
     id: 'cam-cole-at-waterfront',
+    categories: ['Alfie', 'Rich'],
     color: 'grey',
     faicon: 'icons',
     datetime: '2024-04-23 19:30',
@@ -68,6 +71,7 @@ const entries = [
   },
   {
     id: 'indiana-jones-at-royal-albert-hall',
+    categories: ['Alfie', 'Ella', 'Rich'],
     color: 'grey',
     faicon: 'icons',
     datetime: '2024-05-26 19:30',
@@ -87,6 +91,7 @@ const entries = [
   },
   {
     id: 'arctic-monkeys-at-carrow-road',
+    categories: ['Alfie', 'Ella', 'Rich'],
     color: 'grey',
     faicon: 'icons',
     datetime: '2023-06-07 18:40',
@@ -114,6 +119,7 @@ const entries = [
   },
   {
     id: 'elton-john-at-carrow-road',
+    categories: ['Alfie', 'Ella'],
     color: 'grey',
     faicon: 'icons',
     datetime: '2022-06-15 19:30',
@@ -133,6 +139,7 @@ const entries = [
   },
   {
     id: 'killers-at-carrow-road',
+    categories: ['Alfie', 'Ella', 'Rich'],
     color: 'grey',
     faicon: 'icons',
     datetime: '2022-06-09 19:00',
@@ -156,6 +163,7 @@ const entries = [
   },
   {
     id: 'neck-of-the-woods-at-earlham-park',
+    categories: ['Alfie', 'Ella', 'Rich'],
     color: 'grey',
     faicon: 'icons',
     datetime: '2022-05-29 13:00',
@@ -183,6 +191,7 @@ const entries = [
   },
   {
     id: 'south-african-jazz-songbook-at-royal-albert-hall',
+    categories: ['Alfie', 'Ella', 'Rich'],
     color: 'grey',
     faicon: 'icons',
     datetime: '2022-08-28 19:30',
