@@ -211,7 +211,7 @@ const entries = [
   },
 ];
 
-//Sort by date order
+//Sort by date order (DESC)
 entries.sort((a, b) => new Date(b.datetime) - new Date(a.datetime));
 
 // Page details
