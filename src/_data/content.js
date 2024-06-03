@@ -129,7 +129,7 @@ const entries = [
       alt: 'Elton John',
       caption: 'Elton John',
     },
-    body: '...',
+    body: 'Having toured relentlessly since 1970, playing almost 4,600 shows in 80 countries in the ensuing half a century, Elton made the decision in 2017 that it was time to come off the road so he could fully embrace the next important chapter of his life and dedicate more time to his family. The Farewell Yellow Brick Road tour subsequently broke records, pushed boundaries and shattered expectations in a five year period of celebratory activity that solidified Elton’s status in the very highest echelons of popular culture across the generations.',
     links: [
       {
         href: 'https://www.eltonjohn.com/',
@@ -149,7 +149,7 @@ const entries = [
       alt: 'The Killers',
       caption: 'The Killers',
     },
-    body: '...',
+    body: 'Imploding The Mirage is The Killers’ sixth studio album, and their record breaking sixth consecutive UK #1 LP. Spawning the massive singles, Caution, My Own Soul’s Warning and Fire In Bone, it was produced by the band in conjunction with Shawn Everett and Jonathan Rado of Foxygen, and was recorded in Los Angeles, Las Vegas, and Park City, Utah. The band are currently in the studio working on songs for a new album.',
     links: [
       {
         href: 'https://www.thekillersmusic.com/',
