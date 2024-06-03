@@ -170,8 +170,8 @@ const entries = [
     title: 'Neck of the Woods',
     image: {
       src: 'img/gigs/neck-of-the-woods-at-earlham-park.jpg',
-      alt: 'The Killers',
-      caption: 'The Killers',
+      alt: 'Neck of the Woods',
+      caption: 'Neck of the Woods',
     },
     body: 'Staging the nation’s finest indie and alternative sounds right on your doorstep, Neck of the Woods will be popping up in East Anglia for the very first time on Sunday 29th May 2022.<br><br>With acts appearing across three stages, 14,000 music fans will descend on Earlham Park (Norwich) for a day of incredible live music.<br><br>Headlining the Main Stage of the inaugural Neck of the Woods will be… THE KOOKS. Over the years, The Kooks have proven themselves to be pillars of the UK indie pop world. Celebrating the 15th Anniversary of their iconic debut studio album ‘Inside In/Inside Out’ this year, the band will be reminding the Neck of the Woods crowd exactly why its songs are still the soundtrack to a whole generation of young people.',
     links: [
@@ -206,6 +206,162 @@ const entries = [
       {
         href: 'https://www.bbc.co.uk/events/endfbp',
         linkText: 'The South African Jazz Songbook',
+      },
+    ],
+  },
+  {
+    id: 'bbc-introducing-band-night-at-spiegeltent',
+    categories: ['Alfie', 'Rich'],
+    color: 'grey',
+    faicon: 'icons',
+    datetime: '2024-05-20 19:00',
+    title: 'BBC Introducing presents BAND NIGHT',
+    image: {
+      src: 'img/gigs/bbc-introducing-band-night-at-spiegeltent.jpg',
+      alt: 'BBC Introducing presents BAND NIGHT',
+      caption: 'BBC Introducing presents BAND NIGHT',
+    },
+    body: 'Watch some of the most exciting up-and-coming artists from Norfolk’s thriving music scene, as they take to the Adnams Spiegeltent stage. Band Night features some of the most promising local talent, in a night programmed by BBC Introducing.<br><br>This year will see Isamya, W3st and Kitty Perrin take to the Spiegeltent stage, with the night headlined by Norwich-based psychedelic 5-piece, Floral Image.',
+    links: [
+      {
+        href: 'https://nnfestival.org.uk/whats-on/band-night-2/',
+        linkText: 'Kitty Perrin',
+      },
+      {
+        href: 'https://nnfestival.org.uk/whats-on/band-night-2/',
+        linkText: 'Isamya',
+      },
+      {
+        href: 'https://nnfestival.org.uk/whats-on/band-night-2/',
+        linkText: 'W3st',
+      },
+    ],
+  },
+  {
+    id: 'the-horne-section-at-norwich-theatre',
+    categories: ['Alfie', 'Ella', 'Rich'],
+    color: 'grey',
+    faicon: 'icons',
+    datetime: '2024-06-13 19:30',
+    title: 'The Horne Section (upcomming)',
+    image: {
+      src: 'img/gigs/the-horne-section-at-norwich-theatre.jpg',
+      alt: 'The Horne Section',
+      caption: 'The Horne Section',
+    },
+    body: 'They have two series of their own Channel 4 TV show, an iTunes-chart-topping podcast and now they’re tuning up their instruments once more to tour the country: it’s the Horne Section’s Hit Show!<br><br>“Britain’s Funniest Band” (The Guardian) have made appearances on The Last Leg (Channel 4), Peter Crouch’s Year- Late Euros (BBC One), they are Dictionary Corner regulars on  8 out of 10 Cats Does Countdown and the only band to ever host  Never Mind The Buzzcocks.  Separately, members of The Horne Section have performed with recording artists including Robbie Williams, Madness, Florence and the Machine, Amy Winehouse, George Ezra, Basement Jaxx, Disclosure and Noel Gallagher’s High Flying Birds.<br><br>Unruly, ridiculous, and surprisingly satisfying, the six-headed comedy band includes five outstanding musicians and one non-musical stand-up. There’ll be comedy, songs, enthusiastic dancing, and a lot of mucking about. A brand-new show from the hugely talented band and Alex Horne, the creator and co-host of the BAFTA and National Comedy Award winning Taskmaster.',
+    links: [
+      {
+        href: 'https://www.thehornesection.com/',
+        linkText: 'The Horne Section',
+      },
+    ],
+  },
+  {
+    id: 'the-howlers-at-waterfront',
+    categories: ['Alfie', 'Rich'],
+    color: 'grey',
+    faicon: 'icons',
+    datetime: '2024-09-25 19:30',
+    title: 'The Howlers (upcomming)',
+    image: {
+      src: 'img/gigs/the-howlers-at-waterfront.png',
+      alt: 'The Howlers',
+      caption: 'The Howlers',
+    },
+    body: 'At the start of 2022, The Howlers, outwardly at least, were on a high. They had just completed a sold-out tour, off the back of recording their debut EP during the depths of the 2020 lockdowns. ‘We took the decision to bubble together during the pandemic,’ says lead-vocalist Adam Young, describing the band’s near-apocalyptic experience of travelling back and forth between their shared living accommodation and a rehearsal studio, made available to them by previous members of Palma Violets and Big Moon.<br><br>‘Everyone was queuing up with facemasks outside banks, there were protests, it was dystopian’, he recalls, of that time. Adam, bass player Guus Ter Braak, and their former drummer were living in close quarters, eating, and sleeping in a small house share, laying down the record against the precarious backdrop of a live music industry in lockdown turmoil. The result was the band’s first EP which earned the band rapid attention and a cohort of loyal fans',
+    links: [
+      {
+        href: 'https://www.thehowlers.co.uk/',
+        linkText: 'The Howlers',
+      },
+    ],
+  },
+  {
+    id: 'maximo-park-at-waterfront',
+    categories: ['Alfie', 'Ella', 'Rich'],
+    color: 'grey',
+    faicon: 'icons',
+    datetime: '2024-10-16 19:30',
+    title: 'Maximo Park (upcomming)',
+    image: {
+      src: 'img/gigs/maximo-park-at-waterfront.jpg',
+      alt: 'Maximo Park',
+      caption: 'Maximo Park',
+    },
+    body: 'Maximo Park are today sharing brand-new single ‘Favourite Songs’ alongside news of upcoming UK and EU headline tour dates in the Autumn.<br><br>‘Favourite Songs’ is the bands own salute to the potency of pop music in its ability to provide solace in times of need, and a place to retreat into with like minds. Jerky riffs, shimmering synths and a driving chorus propel ‘Favourite Songs’ to a place of collective joy, while singer Paul Smith’s reassurances that “all of our troubles will fade away” ring out in elation. As the first new music from the band in more than 18 months its a song that finds them back in the mood for celebration, revelling in musics power to create the strongest of bonds and send the strongest of messages.<br><br>Singer Paul Smith comments on the song: “Our aim was to create a peppy yet powerful ode to the consolation of music and companionship in the face of other peoples preconceptions.”',
+    links: [
+      {
+        href: 'https://www.maximopark.com/',
+        linkText: 'Maximo Park',
+      },
+    ],
+  },
+  {
+    id: 'deco-at-waterfront',
+    categories: ['Alfie', 'Ella', 'Rich'],
+    color: 'grey',
+    faicon: 'icons',
+    datetime: '2024-11-14 19:30',
+    title: 'Deco (upcomming)',
+    image: {
+      src: 'img/gigs/deco-at-waterfront.png',
+      alt: 'Deco',
+      caption: 'Deco',
+    },
+    body: 'Good Mood Music. Unwavered by movements around them, Deco have become one of the UK’s most intriguing viral pop acts in the last 2 years. With a persistent knack for classic songwriting and capturing millions across social media, the quintet, formed by siblings & lifelong friends, blend the contemporary with their love of the synth pop records, thrust upon them by their parents growing up. ‘Winning the internet’ in lockdown and beyond with millions of views for their viral mashups, Deco truly embody the sense of escapism they carry throughout their songwriting. They’ve appeared on National TV & radio, played BBC Radio 1’s Big Weekend, supported the likes of Nile Rodgers, A-ha & Boy George on tour & garnered endorsements from musical heroes. Wrapping up a successful 2023, with a sold out UK Tour and main stage festival appearances, Deco signed with with Liverpool based label Modern Sky working alongside Virgin Music. The 5 piece released their acclaimed 6 track ‘Nice Car’ EP in June 2023 & will be heading on the road with Nile Rodgers & CHIC this summer. Kicking off 2024 with their punchy new single & live favourite ‘Photograph, Deco have announced their biggest ever UK Tour in October & November following their hugely popular ‘Nice Car’ Tour in 2023. Catch them at a city near you while you can!',
+    links: [
+      {
+        href: 'https://www.instagram.com/decoband/',
+        linkText: 'Deco',
+      },
+    ],
+  },
+  {
+    id: 'killers-at-o2',
+    categories: ['Alfie', 'Ella', 'Rich'],
+    color: 'grey',
+    faicon: 'icons',
+    datetime: '2024-07-05 18:30',
+    title: 'The Killers (upcomming)',
+    image: {
+      src: 'img/gigs/killers-at-o2.jpg',
+      alt: 'The Killers',
+      caption: 'The Killers',
+    },
+    body: 'American rock band, The Killer have today announced a headline show at The O2 as part “Rebel Diamonds” tour, taking place July 2024 celebrating the band’s 20 years of hits.',
+    links: [
+      {
+        href: 'https://www.thekillersmusic.com/',
+        linkText: 'The Killers',
+      },
+      {
+        href: 'https://travisonline.com/',
+        linkText: 'Travis (support)',
+      },
+    ],
+  },
+  {
+    id: 'acdc-at-wembley',
+    categories: ['Alfie', 'Rich'],
+    color: 'grey',
+    faicon: 'icons',
+    datetime: '2024-07-09 16:30',
+    title: 'AC/DC PWR Up Tour (upcomming)',
+    image: {
+      src: 'img/gigs/acdc-at-wembley.png',
+      alt: 'AC/DC',
+      caption: 'AC/DC',
+    },
+    body: 'Formed in the early 70s, AC/DC have released 18 studio albums since they debuted with High Voltage in 1975. Building an audience throughout their early years thanks to the strength of their live reputation, the band hit the mainstream with 1979’s Highway to Hell, an international success of a record and their first to enter the Billboard 200. This would be the album that cemented them as one of rock and roll’s biggest acts – a position that they still hold to this day. Their eighteenth studio album, Power Up, arrived in 2020. It debuted at No.1 in Australia, the US and the UK and received a Grammy nod for Best Rock Album.',
+    links: [
+      {
+        href: 'https://www.acdc.com/home',
+        linkText: 'AC/DC',
+      },
+      {
+        href: 'https://theprettyreckless.com/',
+        linkText: 'The Pretty Reckless (support)',
       },
     ],
   },
