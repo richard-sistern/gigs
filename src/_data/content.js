@@ -96,7 +96,7 @@ const entries = [
       alt: 'Arctic Monkeys',
       caption: 'Arctic Monkeys',
     },
-    body: '...',
+    body: 'Following news of their forthcoming album ‘The Car’, out on October 21, Arctic Monkeys have today, Friday September 23, announced their biggest UK and Irish tour of their career to date, with shows set for May and June 2023.',
     links: [
       {
         href: 'https://arcticmonkeys.com/',
