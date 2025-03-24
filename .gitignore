@@ -2,4 +2,4 @@ node_modules/
 .DS_Store
 
 # Ignore full size images
-src/img/gigs/*.jpg
+original-images/*.jpg
