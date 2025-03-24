@@ -1,0 +1,1 @@
+magick mogrify -path thumbs -resize 300x300 -quality 100 -strip *.jpg
