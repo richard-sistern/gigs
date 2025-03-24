@@ -410,7 +410,7 @@ const entries = [
     categories: ['Alfie', 'Rich'],
     color: 'grey',
     faicon: 'icons',
-    datetime: '2024-12-11 19:30',
+    datetime: '2025-02-13 19:30',
     title: 'Fat Dog',
     image: {
       src: 'img/gigs/thumbs/fat-dog-at-lcr.jpg',
