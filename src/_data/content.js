@@ -425,6 +425,26 @@ const entries = [
       },
     ],
   },
+  {
+    id: 'blossoms-at-lcr',
+    categories: ['Alfie', 'Ella', 'Rich'],
+    color: 'grey',
+    faicon: 'icons',
+    datetime: '2024-11-04 19:30',
+    title: 'Blossoms',
+    image: {
+      src: 'img/gigs/thumbs/blossoms-at-lcr.jpg',
+      alt: 'Blossoms',
+      caption: 'Blossoms',
+    },
+    body: 'English quintet Blossoms burst onto the British scene in the 2010s, quickly rising from local clubs to festival stages within a few short years. Their breakthrough debut landed in 2016 after years of anticipation, topping charts and winning fans with a catchy, synth-forward blend of Brit-pop and indie rock heard on songs like hit single “Charlemagne.” Incorporating more new wave influences on their follow-up, 2018’s Cool Like You, the band maintained their presence on U.K. charts and on the touring circuit. By the end of the decade, they were selling out shows, including one at a hometown stadium. The group entered a new decade in 2020 with their third LP, the lovelorn Foolish Loving Spaces. They soon followed with 2022’s Ribbon Around the Bomb.',
+    links: [
+      {
+        href: 'https://www.blossomsband.co.uk',
+        linkText: 'Official Site',
+      },
+    ],
+  },
 ];
 
 //Sort by date order (DESC)
