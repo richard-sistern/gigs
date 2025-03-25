@@ -445,6 +445,26 @@ const entries = [
       },
     ],
   },
+  {
+    id: '2025-04-25-livewire-at-waterfront',
+    categories: ['Alfie', 'Rich'],
+    color: 'grey',
+    faicon: 'icons',
+    datetime: '2025-04-25 19:30',
+    title: 'Livewire (upcomming)',
+    image: {
+      src: 'img/gigs/thumbs/2025-04-25-livewire-at-waterfront.jpg',
+      alt: 'Livewire the AC/DC Show',
+      caption: 'Livewire the AC/DC Show',
+    },
+    body: 'AC/DC, arguably the greatest rock band of all time, are brought to life by Live/Wire with the true passion you would expect from professional musicians who share your love of this legendary live act. They deliver a critically acclaimed High Voltage two hour rock ’n’ roll set with not only cannons and a full bank of Marshall amps but a journey that takes fans from one of the best-selling albums of all time ‘Back in Black’ through to the 2020 release ‘PWR UP’, with a healthy dose of the classics from the Bon Scott era.',
+    links: [
+      {
+        href: 'https://www.livewireacdcshow.com/',
+        linkText: 'Livewire',
+      },
+    ],
+  },
 ];
 
 //Sort by date order (DESC)
