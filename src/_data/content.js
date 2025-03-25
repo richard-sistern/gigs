@@ -465,6 +465,26 @@ const entries = [
       },
     ],
   },
+  {
+    id: '2025-05-03-razorlight-at-lcr',
+    categories: ['Alfie', 'Ella', 'Rich'],
+    color: 'grey',
+    faicon: 'icons',
+    datetime: '2025-05-03 18:30',
+    title: 'Razorlight (upcomming)',
+    image: {
+      src: 'img/gigs/thumbs/2025-05-03-razorlight-at-lcr.jpg',
+      alt: 'Razorlight',
+      caption: 'Razorlight',
+    },
+    body: 'After making an inspired return last year with the critically acclaimed ‘Planet Nowhere’ album, the resurgence of Razorlight continues with details of a major UK headline tour. This represents their first full scale tour since the release of the album after the band – Johnny Borrell (vocals/guitar), Björn Ågren (guitar), Carl Dalemo (bass) and Andy Burrows (drums) – played a sold-out run of underplay shows last year.',
+    links: [
+      {
+        href: 'https://www.razorlightofficial.com',
+        linkText: 'Razorlight',
+      },
+    ],
+  },
 ];
 
 //Sort by date order (DESC)
