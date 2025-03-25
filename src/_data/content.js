@@ -485,6 +485,46 @@ const entries = [
       },
     ],
   },
+  {
+    id: '2025-05-15-son-mieux-at-colours-hoxton',
+    categories: ['Rich'],
+    color: 'grey',
+    faicon: 'icons',
+    datetime: '2025-05-15 20:00',
+    title: 'Son Mieux (upcomming)',
+    image: {
+      src: 'img/gigs/thumbs/2025-05-15-son-mieux-at-colours-hoxton.jpg',
+      alt: 'Son Mieux',
+      caption: 'Son Mieux',
+    },
+    body: 'After making an inspired return last year with the critically acclaimed ‘Planet Nowhere’ album, the resurgence of Razorlight continues with details of a major UK headline tour. This represents their first full scale tour since the release of the album after the band – Johnny Borrell (vocals/guitar), Björn Ågren (guitar), Carl Dalemo (bass) and Andy Burrows (drums) – played a sold-out run of underplay shows last year.',
+    links: [
+      {
+        href: 'https://sonmieux.com',
+        linkText: 'Son Mieux',
+      },
+    ],
+  },
+  {
+    id: '2025-09-26-skids-at-waterfront',
+    categories: ['Alfie', 'Rich'],
+    color: 'grey',
+    faicon: 'icons',
+    datetime: '2025-09-26 20:00',
+    title: 'Skids (upcomming)',
+    image: {
+      src: 'img/gigs/thumbs/2025-09-26-skids-at-waterfront.jpg',
+      alt: 'Skids',
+      caption: 'Skids',
+    },
+    body: 'The Skids were formed in 1977 by Stuart Adamson and Richard Jobson in Dunfermline, Fife. They went onto record many top 20 songs such as Into the valley, The Saints are Coming and Working for the Yankee Dollar. Their songs have been covered by the likes of U2 and Greenday as well as being used at various football stadiums around the world. They came back with new material in 2018 that surprised everyone and was an instant success before they went onto to tour the UK and beyond to sell out crowds. They remain an influence on many bands and artists that followed in their wake such as Manic Street Preachers and Johnny Marr.',
+    links: [
+      {
+        href: 'https://skidsofficial.com',
+        linkText: 'Skids',
+      },
+    ],
+  },
 ];
 
 //Sort by date order (DESC)
