@@ -9,7 +9,7 @@ const entries = [
     datetime: '2024-04-10 19:30',
     title: 'The Hives - The Death of Randy Fitzsimmons',
     image: {
-      src: 'img/gigs/thumbs/the-hives-at-lcr.jpg',
+      src: 'img/gigs/thumbs/2024-04-10-the-hives-at-lcr.jpg',
       alt: 'The Death of Randy Fitzsimmons Tour 2024',
       caption: 'The Death of Randy Fitzsimmons Tour 2024',
     },
@@ -33,7 +33,7 @@ const entries = [
     datetime: '2024-04-20 18:30',
     title: 'Livewire',
     image: {
-      src: 'img/gigs/thumbs/livewire-at-waterfront.jpg',
+      src: 'img/gigs/thumbs/2024-04-20-livewire-at-waterfront.jpg',
       alt: 'Livewire the AC/DC Show',
       caption: 'Livewire the AC/DC Show',
     },
@@ -53,7 +53,7 @@ const entries = [
     datetime: '2024-04-23 19:30',
     title: 'Cam Cole',
     image: {
-      src: 'img/gigs/thumbs/cam-cole-at-waterfront.jpg',
+      src: 'img/gigs/thumbs/2024-04-23-cam-cole-at-waterfront.jpg',
       alt: 'Cam Cole',
       caption: 'Cam Cole',
     },
@@ -77,7 +77,7 @@ const entries = [
     datetime: '2024-05-26 19:30',
     title: 'Indiana Jones and the Raiders of the Lost Ark Live in Concert',
     image: {
-      src: 'img/gigs/thumbs/indiana-jones-at-royal-albert-hall.jpg',
+      src: 'img/gigs/thumbs/2024-05-26-indiana-jones-at-royal-albert-hall.jpg',
       alt: 'Indiana Jones',
       caption: 'Indiana Jones',
     },
@@ -97,7 +97,7 @@ const entries = [
     datetime: '2023-06-07 18:40',
     title: 'Artic Monkeys',
     image: {
-      src: 'img/gigs/thumbs/arctic-monkeys-at-carrow-road.jpg',
+      src: 'img/gigs/thumbs/2023-06-07-arctic-monkeys-at-carrow-road.jpg',
       alt: 'Arctic Monkeys',
       caption: 'Arctic Monkeys',
     },
@@ -125,7 +125,7 @@ const entries = [
     datetime: '2022-06-15 19:30',
     title: 'Elton John - Farewell Yellow Brick Road Tour',
     image: {
-      src: 'img/gigs/thumbs/elton-john-at-carrow-road.jpg',
+      src: 'img/gigs/thumbs/2022-06-15-elton-john-at-carrow-road.jpg',
       alt: 'Elton John',
       caption: 'Elton John',
     },
@@ -145,7 +145,7 @@ const entries = [
     datetime: '2022-06-09 19:00',
     title: 'The Killers - Imploding the Mirage',
     image: {
-      src: 'img/gigs/thumbs/killers-at-carrow-road.jpg',
+      src: 'img/gigs/thumbs/2022-06-09-killers-at-carrow-road.jpg',
       alt: 'The Killers',
       caption: 'The Killers',
     },
@@ -169,7 +169,7 @@ const entries = [
     datetime: '2022-05-29 13:00',
     title: 'Neck of the Woods',
     image: {
-      src: 'img/gigs/thumbs/neck-of-the-woods-at-earlham-park.jpg',
+      src: 'img/gigs/thumbs/2022-05-29-neck-of-the-woods-at-earlham-park.jpg',
       alt: 'Neck of the Woods',
       caption: 'Neck of the Woods',
     },
@@ -197,7 +197,7 @@ const entries = [
     datetime: '2022-08-28 19:30',
     title: 'The South African Jazz Songbook (Prom 56)',
     image: {
-      src: 'img/gigs/thumbs/south-african-jazz-songbook-at-royal-albert-hall.jpg',
+      src: 'img/gigs/thumbs/2022-08-28-south-african-jazz-songbook-at-royal-albert-hall.jpg',
       alt: 'The South African Jazz Songbook',
       caption: 'The South African Jazz Songbook',
     },
@@ -217,7 +217,7 @@ const entries = [
     datetime: '2024-05-20 19:00',
     title: 'BBC Introducing presents BAND NIGHT',
     image: {
-      src: 'img/gigs/thumbs/bbc-introducing-band-night-at-spiegeltent.jpg',
+      src: 'img/gigs/thumbs/2024-05-20-bbc-introducing-band-night-at-spiegeltent.jpg',
       alt: 'BBC Introducing presents BAND NIGHT',
       caption: 'BBC Introducing presents BAND NIGHT',
     },
@@ -245,7 +245,7 @@ const entries = [
     datetime: '2024-06-13 19:30',
     title: 'The Horne Section',
     image: {
-      src: 'img/gigs/thumbs/the-horne-section-at-norwich-theatre.jpg',
+      src: 'img/gigs/thumbs/2024-06-13-the-horne-section-at-norwich-theatre.jpg',
       alt: 'The Horne Section',
       caption: 'The Horne Section',
     },
@@ -265,7 +265,7 @@ const entries = [
     datetime: '2024-09-25 19:30',
     title: 'The Howlers',
     image: {
-      src: 'img/gigs/thumbs/the-howlers-at-waterfront.jpg',
+      src: 'img/gigs/thumbs/2024-09-25-the-howlers-at-waterfront.jpg',
       alt: 'The Howlers',
       caption: 'The Howlers',
     },
@@ -285,7 +285,7 @@ const entries = [
     datetime: '2024-10-16 19:30',
     title: 'Maximo Park',
     image: {
-      src: 'img/gigs/thumbs/maximo-park-at-waterfront.jpg',
+      src: 'img/gigs/thumbs/2024-10-16-maximo-park-at-waterfront.jpg',
       alt: 'Maximo Park',
       caption: 'Maximo Park',
     },
@@ -305,7 +305,7 @@ const entries = [
     datetime: '2024-11-14 19:30',
     title: 'Deco',
     image: {
-      src: 'img/gigs/thumbs/deco-at-waterfront.jpg',
+      src: 'img/gigs/thumbs/2024-11-14-deco-at-waterfront.jpg',
       alt: 'Deco',
       caption: 'Deco',
     },
@@ -325,7 +325,7 @@ const entries = [
     datetime: '2024-07-05 18:30',
     title: 'The Killers',
     image: {
-      src: 'img/gigs/thumbs/killers-at-o2.jpg',
+      src: 'img/gigs/thumbs/2024-07-05-killers-at-o2.jpg',
       alt: 'The Killers',
       caption: 'The Killers',
     },
@@ -349,7 +349,7 @@ const entries = [
     datetime: '2024-07-09 16:30',
     title: 'AC/DC PWR Up Tour',
     image: {
-      src: 'img/gigs/thumbs/acdc-at-wembley.jpg',
+      src: 'img/gigs/thumbs/2024-07-09-acdc-at-wembley.jpg',
       alt: 'AC/DC',
       caption: 'AC/DC',
     },
@@ -373,7 +373,7 @@ const entries = [
     datetime: '2024-11-29 19:30',
     title: 'Elvana',
     image: {
-      src: 'img/gigs/thumbs/elvana-at-lcr.jpg',
+      src: 'img/gigs/thumbs/2024-11-29-elvana-at-lcr.jpg',
       alt: 'Elvana',
       caption: 'Elvana',
     },
@@ -393,7 +393,7 @@ const entries = [
     datetime: '2024-12-11 19:30',
     title: 'Bad Nerves',
     image: {
-      src: 'img/gigs/thumbs/bad-nerves-at-waterfront.jpg',
+      src: 'img/gigs/thumbs/2024-12-11-bad-nerves-at-waterfront.jpg',
       alt: 'Bad Nerves',
       caption: 'Bad Nerves',
     },
@@ -413,7 +413,7 @@ const entries = [
     datetime: '2025-02-13 19:30',
     title: 'Fat Dog',
     image: {
-      src: 'img/gigs/thumbs/fat-dog-at-lcr.jpg',
+      src: 'img/gigs/thumbs/2025-02-13-fat-dog-at-lcr.jpg',
       alt: 'Fat Dog',
       caption: 'Fat Dog',
     },
@@ -433,7 +433,7 @@ const entries = [
     datetime: '2024-11-04 19:30',
     title: 'Blossoms',
     image: {
-      src: 'img/gigs/thumbs/blossoms-at-lcr.jpg',
+      src: 'img/gigs/thumbs/2024-11-04-blossoms-at-lcr.jpg',
       alt: 'Blossoms',
       caption: 'Blossoms',
     },
